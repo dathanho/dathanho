@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dathanho!
 - 👀 I’m interested in everything technology, engineering, and finance/business.
 - 🌱 I’m currently learning full-stack development, machine learning, and it management.
-- 💞️ I’m looking to collaborate on: nothing currently:/
 - 📫 How to reach me, dathan#1690 (Discord)
 
 <!---
