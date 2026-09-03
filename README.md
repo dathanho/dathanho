@@ -10,8 +10,8 @@ I am currently learning...
 - 〰️ Signal Processing Analysis
 
 How to reach me:
-- Email: dathanph08@gmail.com
-- Linkedin: https://www.linkedin.com/in/dathanho/
+- 📧 Email: dathanph08@gmail.com
+- 💼 Linkedin: https://www.linkedin.com/in/dathanho/
 <!--
 **dathanho/dathanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
