@@ -1,4 +1,4 @@
-## Hello❗ I'm Dathan. 😎
+## Hello❗
 I am an...
 - 💻 Electrical and Computer Engineering student at Oregon State University (Go Beavs! 🦫)
 - 🎙️ Audio Engineer and Enthusiast
