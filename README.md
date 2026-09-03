@@ -1,4 +1,4 @@
-## Hello❗
+##😎Hello❗
 
 I am an...
 - 💻 Electrical and Computer Engineering student at Oregon State University (Go Beavs! 🦫)
