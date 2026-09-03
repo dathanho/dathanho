@@ -1,5 +1,8 @@
 ## Hello❗
 
+I'm an Electrical and Computer Engineering student at Oregon State University with a huge passion for audio, music, and computer systems/architecture.
+
+
 <!--
 **dathanho/dathanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
